@@ -12397,7 +12397,7 @@
 		},
 		{
 			"id": "eT5uvj7QE4-YaURLs",
-			"description": "Electrician (@Specialization@) Mini-Toolkit",
+			"description": "Electrician Mini-Toolkit",
 			"reference": "UT82",
 			"notes": "-2 (quality). 5B/10hr.",
 			"tech_level": "9",
@@ -12414,7 +12414,7 @@
 		},
 		{
 			"id": "e8GFgRurmbjVJXEai",
-			"description": "Electrician (@Specialization@) Portable Workshop",
+			"description": "Electrician Portable Workshop",
 			"reference": "UT82",
 			"notes": "+2 (quality). 10C/100hr.",
 			"tech_level": "9",
@@ -12431,7 +12431,7 @@
 		},
 		{
 			"id": "eOpSbi-SCTcKullsg",
-			"description": "Electrician (@Specialization@) Robotic Workshop",
+			"description": "Electrician Robotic Workshop",
 			"reference": "UT82",
 			"notes": "+3 (quality). 20C/100hr.",
 			"tech_level": "10",
@@ -12448,7 +12448,7 @@
 		},
 		{
 			"id": "e30HAzR77Eg5Bwtxw",
-			"description": "Electrician (@Specialization@) Toolkit",
+			"description": "Electrician Toolkit",
 			"reference": "UT82",
 			"notes": "10B/10hr.",
 			"tech_level": "9",
