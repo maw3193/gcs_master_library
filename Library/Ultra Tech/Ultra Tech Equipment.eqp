@@ -25706,6 +25706,14 @@
 			],
 			"value": 200000,
 			"weight": "100 lb",
+			"modifiers": [
+				{
+					"id": "fJcqDsRU5QHN3zYUR",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 200000,
@@ -25723,6 +25731,14 @@
 			],
 			"value": 200000,
 			"weight": "100 lb",
+			"modifiers": [
+				{
+					"id": "fQhcYFfhmgSsiqHy5",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 200000,
@@ -25740,6 +25756,14 @@
 			],
 			"value": 200000,
 			"weight": "100 lb",
+			"modifiers": [
+				{
+					"id": "fDUzo4ADU8zgGsAf2",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 200000,
@@ -25757,6 +25781,14 @@
 			],
 			"value": 200000,
 			"weight": "100 lb",
+			"modifiers": [
+				{
+					"id": "faJxRV6BcOydgPW-D",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 200000,
@@ -26258,6 +26290,14 @@
 			],
 			"value": 1000000,
 			"weight": "100 lb",
+			"modifiers": [
+				{
+					"id": "flq8IpqNxO01rjKiQ",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 1000000,
@@ -26276,6 +26316,14 @@
 			],
 			"value": 1000000,
 			"weight": "100 lb",
+			"modifiers": [
+				{
+					"id": "f1lV_1fDW070Bwo_W",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 1000000,
@@ -26294,6 +26342,14 @@
 			],
 			"value": 1000000,
 			"weight": "100 lb",
+			"modifiers": [
+				{
+					"id": "fGqIbr7QhqQEzougs",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 1000000,
@@ -26312,6 +26368,14 @@
 			],
 			"value": 1000000,
 			"weight": "100 lb",
+			"modifiers": [
+				{
+					"id": "fUyEShwl1roDugZn6",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 1000000,
@@ -29374,6 +29438,14 @@
 			],
 			"value": 100000,
 			"weight": "10 lb",
+			"modifiers": [
+				{
+					"id": "fqIl59lMenPP4d2Ha",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 100000,
@@ -29391,6 +29463,14 @@
 			],
 			"value": 20000,
 			"weight": "10 lb",
+			"modifiers": [
+				{
+					"id": "featGXW6PwYqn_10v",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 20000,
@@ -29409,6 +29489,14 @@
 			],
 			"value": 100000,
 			"weight": "10 lb",
+			"modifiers": [
+				{
+					"id": "fYCtVmsOrM5oOHJqd",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 100000,
@@ -29426,6 +29514,14 @@
 			],
 			"value": 20000,
 			"weight": "10 lb",
+			"modifiers": [
+				{
+					"id": "fTrKmW-yZkfJ4bWpl",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 20000,
@@ -29444,6 +29540,14 @@
 			],
 			"value": 100000,
 			"weight": "10 lb",
+			"modifiers": [
+				{
+					"id": "fFepzifWFIRvwPt9z",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 100000,
@@ -29461,6 +29565,14 @@
 			],
 			"value": 20000,
 			"weight": "10 lb",
+			"modifiers": [
+				{
+					"id": "fcbkd1L1K5-YG6sUW",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 20000,
@@ -29479,6 +29591,14 @@
 			],
 			"value": 100000,
 			"weight": "10 lb",
+			"modifiers": [
+				{
+					"id": "fx8amVzNeEwAZAjCU",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 100000,
@@ -29496,6 +29616,14 @@
 			],
 			"value": 20000,
 			"weight": "10 lb",
+			"modifiers": [
+				{
+					"id": "f6xe0SYZNkjLOdvHo",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 20000,
@@ -44275,6 +44403,14 @@
 			],
 			"value": 10000,
 			"weight": "1 lb",
+			"modifiers": [
+				{
+					"id": "fxry03nFTb9mrMMQ8",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 10000,
@@ -44292,6 +44428,14 @@
 			],
 			"value": 2000,
 			"weight": "1 lb",
+			"modifiers": [
+				{
+					"id": "fz-XmhL_wdIoaueLP",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 2000,
@@ -44310,6 +44454,14 @@
 			],
 			"value": 10000,
 			"weight": "1 lb",
+			"modifiers": [
+				{
+					"id": "fNMNp1TFCzxmpTwox",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 10000,
@@ -44327,6 +44479,14 @@
 			],
 			"value": 2000,
 			"weight": "1 lb",
+			"modifiers": [
+				{
+					"id": "fq-E_dHMWuTIeuYw3",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 2000,
@@ -44345,6 +44505,14 @@
 			],
 			"value": 10000,
 			"weight": "1 lb",
+			"modifiers": [
+				{
+					"id": "fuvF8ErIjMgX2Qg3H",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 10000,
@@ -44362,6 +44530,14 @@
 			],
 			"value": 2000,
 			"weight": "1 lb",
+			"modifiers": [
+				{
+					"id": "fi-hk8rpdrDDi7MiG",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 2000,
@@ -44380,6 +44556,14 @@
 			],
 			"value": 10000,
 			"weight": "1 lb",
+			"modifiers": [
+				{
+					"id": "f1pzqXh5fXRvQ3kmu",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 10000,
@@ -44397,6 +44581,14 @@
 			],
 			"value": 2000,
 			"weight": "1 lb",
+			"modifiers": [
+				{
+					"id": "fZxEpqHWA3Je0hUQN",
+					"name": "Chemscanner Mode",
+					"cost": "+20%",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"extended_value": 2000,
