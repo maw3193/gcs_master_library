@@ -21804,6 +21804,30 @@
 			"points": 1
 		},
 		{
+			"id": "qPvsxs6EoFotPpsjV",
+			"name": "Rope Down",
+			"reference": "B233",
+			"tags": [
+				"Athletic",
+				"Criminal",
+				"Exploration",
+				"Outdoor",
+				"Street",
+				"Technique"
+			],
+			"difficulty": "a",
+			"default": {
+				"type": "skill",
+				"name": {
+					"compare": "is",
+					"qualifier": "Climbing"
+				},
+				"modifier": -1
+			},
+			"limit": 3,
+			"points": 1
+		},
+		{
 			"id": "qgm1-ljR9tUfkrxFj",
 			"name": "Rope Up",
 			"reference": "B233",
