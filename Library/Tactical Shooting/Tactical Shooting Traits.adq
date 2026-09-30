@@ -153,9 +153,14 @@
 			}
 		},
 		{
-			"id": "t7NkAOiLea29IaO0k",
-			"name": "Grip Mastery",
-			"reference": "TS39",
+			"id": "tp7PXrV6tONqLH0Nj",
+			"source": {
+				"library": "richardwilkes/gcs_master_library",
+				"path": "Gun Fu/Gun Fu Traits.adq",
+				"id": "twjez557w50o5mmv3"
+			},
+			"name": "Grip Mastery (@Shooting Skill@)",
+			"reference": "GF19, TS39",
 			"tags": [
 				"Perk",
 				"Physical",
